@@ -1,0 +1,16 @@
+.arabic .ql-editor {
+  direction: rtl;
+  text-align: right;
+}
+
+.arabic .ql-editor ol li:before {
+  padding: 0 1rem !important;
+}
+
+.arabic .ql-editor ul > li::before {
+  padding: 0 1rem !important;
+}
+
+.ql-editor {
+  /* resize: vertical; */
+}
